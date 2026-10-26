@@ -1,0 +1,9 @@
+CNAME
+*.zip
+*.pdf
+*.eml
+*.py
+*.log
+_mobile.html
+_dokumentacja/
+.DS_Store
