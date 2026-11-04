@@ -9,3 +9,5 @@
 @media(min-width:801px){.footer-main{grid-template-columns:1fr 1.25fr 1.25fr .8fr .8fr}}.footer-main a[aria-current=page]{color:#dcceb1}
 .nav>a{transition:background .4s}
 .header-phone{color:var(--ink)}.page-home .top:not(.header-solid) .header-phone{color:var(--paper)}
+
+.photo-label,.photo figcaption,.lb-cap{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0 0 0 0)!important;clip-path:inset(50%)!important;white-space:nowrap!important;border:0!important}
